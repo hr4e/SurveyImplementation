@@ -1,0 +1,20 @@
+development:
+  adapter: postgresql
+  encoding: unicode
+  database: formbuilder
+  pool: 5
+  username: vagrant
+
+test:
+  adapter: postgresql
+  encoding: unicode
+  database: formbuilder_test
+  pool: 5
+  username: vagrant
+
+production:
+  adapter: postgresql
+  encoding: unicode
+  database: formbuilder
+  pool: 5
+  username: vagrant
