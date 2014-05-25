@@ -1,4 +1,4 @@
-SurveyImplementation
+HR4E Group J: Survey Implementation
 ====================
 
 There's no need to clone this repository to see our project: we already have it up and running on a server, for your viewing pleasure.
